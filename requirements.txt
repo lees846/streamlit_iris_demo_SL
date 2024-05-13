@@ -1,2 +1,2 @@
-pandas==2.0.3
-scikit-learn @ file:///opt/concourse/worker/volumes/live/0c77b068-a026-4996-6842-33e5544ec13b/volume/scikit-learn_1614446667823/work
+
+scikit-learn==1.4.2
